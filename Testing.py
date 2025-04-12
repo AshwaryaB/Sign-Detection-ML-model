@@ -9,6 +9,7 @@ model2=model_select['model2']
 model3=model_select['model3']
 model4=model_select['model4']
 
+#model1 i.e. Random Forest is chosen as its accuracy is 100%
 label_list= {0:'A',1:'B',2:'C',3:'D',4:'E',5:'F',6:'G'}
 
 mp_hands=mp.solutions.hands
